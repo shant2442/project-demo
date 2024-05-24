@@ -1,2 +1,2 @@
 # project-demo
-this is nothing but a simple checking of the features of the github
+this is my first projecct on the github
